@@ -1,0 +1,13 @@
+package cn.com.csii.kl01;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Kl01Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Kl01Application.class, args);
+    }
+
+}
